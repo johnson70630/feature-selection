@@ -1,2 +1,2 @@
 # feature-selection
-Practice selecting effective features for a set of email data to increase recognition accuracy.
+Practice selecting effective features and weights for a set of email data to increase recognition accuracy.
