@@ -1,5 +1,5 @@
 # feature-selection
-Practice selecting effective features and weights for a set of email data to increase recognition accuracy.
+select effective features and weights for a set of email data to increase recognition accuracy.
 
 ## Data 
 [data base](https://github.com/johnson70630/feature-selection/blob/main/is_valid_email.txt)
